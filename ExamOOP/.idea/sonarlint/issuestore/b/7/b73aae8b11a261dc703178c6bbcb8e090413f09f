@@ -1,0 +1,11 @@
+
+Csquid:S2068" Remove this hard-coded password.(¹»­èúÿÿÿÿ8Ğ†ß¬.
+esquid:S2184L"BCast one of the operands of this addition operation to a "double".(Ä°÷øúÿÿÿÿ8Íİ©¬.
+tsquid:S2068"V'password' detected in this expression, review this potentially hard-coded credential.(ÇÂ²ô8„ì²¬.
+V
+squid:S106Q"9Replace this use of System.out or System.err by a logger.(äÙäü8Ÿ¤¬.
+Rsquid:S1066:"/Merge this if statement with the enclosing one.(‹µ“¸ûÿÿÿÿ8êëè¬.
+isquid:S1764P"KCorrect one of the identical sub-expressions on both sides of operator "||"(Õ›Ãˆ8Ÿ¤¬.
+]squid:S1118	":Add a private constructor to hide the implicit public one.(¯ÇÏ•ûÿÿÿÿ8„ì²¬.
+esquid:S2184N"BCast one of the operands of this addition operation to a "double".(Í½¢èıÿÿÿÿ8ŠÉ©¬.
+esquid:S2184J"BCast one of the operands of this addition operation to a "double".(¯ÿ³­ıÿÿÿÿ8¸–¨¬.
